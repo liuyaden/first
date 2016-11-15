@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CF5AFF461DC7356D006C7EAB /* 不二家.gif in Resources */ = {isa = PBXBuildFile; fileRef = CF5AFF451DC7356D006C7EAB /* 不二家.gif */; };
 		CFE947461DC72868006140A9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFE947451DC72868006140A9 /* AppDelegate.swift */; };
 		CFE947481DC72868006140A9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFE947471DC72868006140A9 /* ViewController.swift */; };
 		CFE9474B1DC72868006140A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFE947491DC72868006140A9 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CF5AFF451DC7356D006C7EAB /* 不二家.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "不二家.gif"; path = "../不二家.gif"; sourceTree = "<group>"; };
 		CFE947421DC72868006140A9 /* hw00457209.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hw00457209.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFE947451DC72868006140A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CFE947471DC72868006140A9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		CFE947441DC72868006140A9 /* hw00457209 */ = {
 			isa = PBXGroup;
 			children = (
+				CF5AFF451DC7356D006C7EAB /* 不二家.gif */,
 				CFE947451DC72868006140A9 /* AppDelegate.swift */,
 				CFE947471DC72868006140A9 /* ViewController.swift */,
 				CFE947491DC72868006140A9 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			files = (
 				CFE947501DC72868006140A9 /* LaunchScreen.storyboard in Resources */,
 				CFE9474D1DC72868006140A9 /* Assets.xcassets in Resources */,
+				CF5AFF461DC7356D006C7EAB /* 不二家.gif in Resources */,
 				CFE9474B1DC72868006140A9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -297,6 +301,7 @@
 				CFE947561DC72868006140A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
